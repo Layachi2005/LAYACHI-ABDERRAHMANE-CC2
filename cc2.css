@@ -12,6 +12,7 @@ p i {
     width: 280px;
     height: 280px;
     background-color: blue;
+    rotate: 35deg;
 }
 
 @media  (max-width:670px) {
